@@ -1,0 +1,7 @@
+{
+  "name": "Veterný Monitor Pro",
+  "description": "Profesionálna aplikácia na sledovanie rýchlosti a smeru vetra v reálnom čase pomocou umelej inteligencie a Google Search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
